@@ -28,14 +28,14 @@ To provide a clear, executive-level view of my analytical methodologies, each fo
 
 | Module | Project Focus | Key Technologies |
 |---|---|---|
-| **[Integrated Capstone Project](./Capstone_Healthcare_Management/)** | Healthcare Readmission Prediction | Python, SQL, Tableau, Excel |
-| **[Module 1: Excel Analytics](./Mod1_Excel_Analytics/)** | Interactive Retail Sales Dashboard | Advanced Excel, OFFSET, MATCH |
-| **[Module 2: SQL Databases](./Mod2_SQL_Databases/)** | HR Performance & Air Cargo Analysis | MySQL, Window Functions, E-R |
-| **[Module 3: AWS Cloud ETL](./Mod3_AWS_ETL/)** | Retail & Social Media Data Pipelines | AWS S3, AWS Glue, Parquet |
-| **[Module 4: Tableau BI](./Mod4_Tableau_BI/)** | Regional Sales Analysis Dashboard | Tableau, Calculated Fields |
-| **[Module 5: Python Basics](./Mod5_Python_Basics/)** | Personal Expense Tracker App | Python OOP |
-| **[Module 6: Python Analytics](./Mod6_Python_Data_Analytics/)** | Retail Sales Analysis Report | Pandas, NumPy, Seaborn, EDA |
-| **[Module 7: Generative AI](./Mod7_Generative_AI/)** | Enhancing Data Analytics with LLMs | Prompt Engineering, GenAI |
+| **[Integrated Capstone Project](./Integrated%20Capstone%20Project/)** | Healthcare Readmission Prediction | Python, SQL, Tableau, Excel |
+| **[Module 1: Business Analytics with Excel](./Module%201:%20Business%20Analytics%20with%20Excel/)** | Interactive Retail Sales Dashboard | Advanced Excel, OFFSET, MATCH |
+| **[Module 2: Relational Database Modeling & SQL](./Module%202:%20Relational%20Database%20Modeling%20&%20SQL/)** | HR Performance & Air Cargo Analysis | MySQL, Window Functions, E-R |
+| **[Module 3: Extract, Transform, and Load (ETL) using AWS](./Module%203:%20Extract,%20Transform,%20and%20Load%20(ETL)%20using%20AWS/)** | Retail & Social Media Data Pipelines | AWS S3, AWS Glue, Parquet |
+| **[Module 4: Data Visualization using Tableau](./Module%204:%20Data%20Visualization%20using%20Tableau/)** | Regional Sales Analysis Dashboard | Tableau, Calculated Fields |
+| **[Module 5: Fundamentals of Python Programming](./Module%205:%20Fundamentals%20of%20Python%20Programming/)** | Personal Expense Tracker App | Python OOP |
+| **[Module 6: Data Analytics with Python](./Module%206:%20Data%20Analytics%20with%20Python/)** | Retail Sales Analysis Report | Pandas, NumPy, Seaborn, EDA |
+| **[Module 7: Enhancing Data Analytics with Generative AI](./Module%207:%20Enhancing%20Data%20Analytics%20with%20GenAI/)** | Enhancing Data Analytics with LLMs | Prompt Engineering, GenAI |
 
 ---
 
