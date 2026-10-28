@@ -136,7 +136,7 @@ Capstone_Healthcare_Management/
 │
 ├── C_P_HEALTHCARE_MANAGEMENT_Akansha_C.ipynb                 # Python EDA and Visualization notebook
 ├── Capstone_Project_Healthcare_Management_Detection_Akansha_C_.sql # MySQL metric extraction script
-├── Capstone_Project_Healthcare_Management_Akansha_C_Report.pdf     # Full Report (Excel, Tableau, Insights & Certificate)
+├── Capstone_Project_Healthcare_Management_Akansha_C_Report.doc     # Full Report (Excel, Tableau & Insights)
 └── README.md                                                 # This file
 ```
 
