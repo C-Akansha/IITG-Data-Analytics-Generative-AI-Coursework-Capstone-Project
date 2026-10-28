@@ -51,9 +51,10 @@ This folder contains the detailed visual report documenting the Python code cell
 ```text
 Mod5_Python_Basics/
 │
-├── Personal_Expense_Tracker_Report.docx  # Step-by-step Python code implementation and output console logs
-├── Certificate_Python_Basics.pdf         # Verified module completion credential
-└── README.md                             # This file
+├── Personal_Expense_Tracker_Report.docx   # Step-by-step Python code implementation and output console logs
+├── Personal_Expense_Tracker.ipynb         # Python notebook
+├── Certificate_Python_Basics.pdf          # Verified module completion credential
+└── README.md                              # This file
 ```
 
 ## 5. Author
