@@ -53,6 +53,7 @@ Mod4_Tableau_BI/
 │
 ├── Regional_Sales_Analysis_Report.docx  # Step-by-step Tableau configuration and final dashboard visuals
 ├── Certificate_Tableau_BI.pdf           # Verified module completion credential
+├── Regional Sales Analysis Dashboard.png   
 └── README.md                            # This file
 ```
 
