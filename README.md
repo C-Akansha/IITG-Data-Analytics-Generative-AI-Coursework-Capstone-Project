@@ -30,7 +30,7 @@ To provide a clear, executive-level view of my analytical methodologies, each fo
 |---|---|---|
 | **[Integrated Capstone Project](./Integrated%20Capstone%20Project/)** | Healthcare Readmission Prediction | Python, SQL, Tableau, Excel |
 | **[Module 1: Business Analytics with Excel](./Module%201:%20Business%20Analytics%20with%20Excel/)** | Interactive Retail Sales Dashboard | Advanced Excel, OFFSET, MATCH |
-| **[Module 2: Relational Database Modeling & SQL Analytics](./Module%202:%20Relational%20Database%20Modeling%20&%20SQL%20Analytics/)** | HR Performance & Air Cargo Analysis | MySQL, Window Functions, E-R |
+| **[Module 2: Relational Database Modeling and SQL Analytics](./Module%202:%20Relational%20Database%20Modeling%20and%20SQL%20Analytics/)** | HR Performance & Air Cargo Analysis | MySQL, Window Functions, E-R |
 | **[Module 3: Extract, Transform, and Load (ETL) using AWS Cloud](./Module%203:%20Extract,%20Transform,%20and%20Load%20(ETL)%20using%20AWS%20Cloud/)** | Retail & Social Media Data Pipelines | AWS S3, AWS Glue, Parquet |
 | **[Module 4: Data Visualization using Tableau](./Module%204:%20Data%20Visualization%20using%20Tableau/)** | Regional Sales Analysis Dashboard | Tableau, Calculated Fields |
 | **[Module 5: Fundamentals of Python Programming](./Module%205:%20Fundamentals%20of%20Python%20Programming/)** | Personal Expense Tracker App | Python OOP |
