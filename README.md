@@ -30,8 +30,8 @@ To provide a clear, executive-level view of my analytical methodologies, each fo
 |---|---|---|
 | **[Integrated Capstone Project](./Integrated%20Capstone%20Project/)** | Healthcare Readmission Prediction | Python, SQL, Tableau, Excel |
 | **[Module 1: Business Analytics with Excel](./Module%201:%20Business%20Analytics%20with%20Excel/)** | Interactive Retail Sales Dashboard | Advanced Excel, OFFSET, MATCH |
-| **[Module 2: Relational Database Modeling and SQL](./Module%202:%20Relational%20Database%20Modeling%20and%20SQL/)** | HR Performance & Air Cargo Analysis | MySQL, Window Functions, E-R |
-| **[Module 3: Extract, Transform, and Load (ETL) using AWS](./Module%203:%20Extract,%20Transform,%20and%20Load%20(ETL)%20using%20AWS/)** | Retail & Social Media Data Pipelines | AWS S3, AWS Glue, Parquet |
+| **[Module 2: Relational Database Modeling & SQL Analytics](./Module%202:%20Relational%20Database%20Modeling%20&%20SQL%20Analytics/)** | HR Performance & Air Cargo Analysis | MySQL, Window Functions, E-R |
+| **[Module 3: Extract, Transform, and Load (ETL) using AWS Cloud](./Module%203:%20Extract,%20Transform,%20and%20Load%20(ETL)%20using%20AWS%20Cloud/)** | Retail & Social Media Data Pipelines | AWS S3, AWS Glue, Parquet |
 | **[Module 4: Data Visualization using Tableau](./Module%204:%20Data%20Visualization%20using%20Tableau/)** | Regional Sales Analysis Dashboard | Tableau, Calculated Fields |
 | **[Module 5: Fundamentals of Python Programming](./Module%205:%20Fundamentals%20of%20Python%20Programming/)** | Personal Expense Tracker App | Python OOP |
 | **[Module 6: Data Analytics with Python](./Module%206:%20Data%20Analytics%20with%20Python/)** | Retail Sales Analysis Report | Pandas, NumPy, Seaborn, EDA |
@@ -41,7 +41,7 @@ To provide a clear, executive-level view of my analytical methodologies, each fo
 
 ## 3. Integrated Capstone: Healthcare Patient Readmission
 
-The culminating project of this program is the [Healthcare Management Capstone](./Capstone_Healthcare_Management/), an end-to-end workflow analyzing 100,000+ patient records to predict 30-day hospital readmissions. 
+The culminating project of this program is the [Healthcare Management Capstone](./Integrated%20Capstone%20Project/), an end-to-end workflow analyzing 100,000+ patient records to predict 30-day hospital readmissions. 
 * **Impact:** Identified the 70–80 age bracket and "super-utilizers" as the highest risk vectors, empowering healthcare management to deploy targeted resource allocation and cost reduction strategies.
 * **Workflow Integrated:** Excel (Data Preparation) → SQL (Metric Extraction) → Python (EDA & Outlier Detection) → Tableau (Dashboarding).
 
