@@ -46,7 +46,7 @@ This folder contains the detailed analytical report showing the step-by-step das
 ```text
 Mod1_Excel_Analytics/
 │
-├── Excel_Sales_Dashboard_Report.pdf     # Detailed project report with formula breakdowns and dashboard visuals
+├── Excel_Sales_Dashboard_Report.doc     # Detailed project report with formula breakdowns and dashboard visuals
 ├── Certificate_Business_Analytics.pdf   # Verified module completion credential
 └── README.md                            # This file
 ```
