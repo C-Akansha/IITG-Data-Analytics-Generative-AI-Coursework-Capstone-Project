@@ -1,4 +1,4 @@
-# Module 2: Relational Database Modeling & SQL Analytics
+# Module 2: Relational Database Modeling and SQL Analytics
 ### Coursework Project — IIT Guwahati Data Analytics Program
 
 ![MySQL](https://img.shields.io/badge/MySQL-8.0%2B-4479A1?logo=mysql&logoColor=white)
